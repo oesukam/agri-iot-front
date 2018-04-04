@@ -1,6 +1,6 @@
-# agri
+# Agrculture and IoT
 
-> A Vue.js project
+> Front-end using VueJS
 
 ## Build Setup
 
