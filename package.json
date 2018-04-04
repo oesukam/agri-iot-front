@@ -1,7 +1,7 @@
 {
-  "name": "agri",
+  "name": "agri-iot-front",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Agriculture and Iot",
   "author": "Olivier ESUKA <oesukam@gmail.com>",
   "private": true,
   "scripts": {
